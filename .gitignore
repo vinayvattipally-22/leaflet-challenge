@@ -1,0 +1,11 @@
+# Compiled files
+dist/
+build/
+
+# Optional: IDE files
+.vscode/
+.idea/
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
